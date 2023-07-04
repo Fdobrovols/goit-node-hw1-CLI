@@ -1,8 +1,8 @@
 # goit-node-hw-01
 
-command "list"
+command "list -a"
 
-![image](https://i.ibb.co/xzgK4S3/image.png) https://ibb.co/NWNg467
+![image](https://i.ibb.co/xzgK4S3/image.png)
 
 command "get"
 
