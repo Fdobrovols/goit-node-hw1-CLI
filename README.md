@@ -1,17 +1,17 @@
 # goit-node-hw-01
 
-<!-- command "list" -->
+command "list"
 
-(https://ibb.co/NWNg467)
+![image](https://i.ibb.co/xzgK4S3/image.png)
 
-<!-- command "get" -->
+command "get"
 
-(https://ibb.co/wwzjHgh)
+![image](https://i.ibb.co/xf7dvLq/image-1.png)
 
-<!-- command "add" -->
+command "add"
 
-(https://ibb.co/K2jQX9j)
+![image](https://i.ibb.co/sKvD2Fv/image-2.png)
 
-<!-- command "remove" -->
+command "remove"
 
-(https://ibb.co/PT3N98h)
+![image](https://i.ibb.co/28mysBt/image-3.png)
